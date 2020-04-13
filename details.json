@@ -1,0 +1,268 @@
+{
+  "fulldetails": [
+    {
+      "firstname": "sravanthi",
+      "lastname": "Duggi",
+      "dateofbirth": "1994-07-18",
+      "emailid": "sravanthi@gmail.com",
+      "mobileno": "7476937698",
+      "role": "student",
+      "password": "Sravanthi@123",
+      "cnfpwd": "Sravanthi@123",
+      "id": 1
+    },
+    {
+      "firstname": "Swetha",
+      "lastname": "Venkata",
+      "dateofbirth": "1998-12-08",
+      "emailid": "swetha@gmail.com",
+      "password": "Swetha@123",
+      "cnfpwd": "Swetha@123",
+      "role": "student",
+      "mobileno": "8769789789",
+      "id": 2
+    },
+    {
+      "firstname": "SaiLakshmi",
+      "lastname": "Ravuri",
+      "dateofbirth": "1999-08-24",
+      "emailid": "sailakshmi@gmail.com",
+      "password": "SaiLakshmi@123",
+      "cnfpwd": "SaiLakshmi@123",
+      "role": "student",
+      "mobileno": "7683769798",
+      "id": 3
+    },
+    {
+      "firstname": "Sindhura",
+      "lastname": "Karamsetty",
+      "dateofbirth": "1996-02-05",
+      "emailid": "sindhura@gmail.com",
+      "mobileno": "9076363878",
+      "role": "student",
+      "password": "Sindhura@123",
+      "cnfpwd": "Sindhura@123",
+      "id": 4
+    },
+    {
+      "firstname": "varshini",
+      "lastname": "ravuri",
+      "dateofbirth": "1994-01-29",
+      "emailid": "varshini@gmail.com",
+      "password": "Varshini@123",
+      "cnfpwd": "Varshini@123",
+      "role": "student",
+      "mobileno": "9747609475",
+      "id": 5
+    },
+    {
+      "firstname": "pallavi",
+      "lastname": "pabolu",
+      "dateofbirth": "1994-02-25",
+      "emailid": "pallavi@gmail.com",
+      "password": "Pallavi@123",
+      "cnfpwd": "Pallavi@123",
+      "role": "student",
+      "mobileno": "7992474518",
+      "id": 6
+    },
+    {
+      "firstname": "harry",
+      "lastname": "potter",
+      "dateofbirth": "1993-08-19",
+      "emailid": "potter@gmail.com",
+      "password": "Potter@123",
+      "cnfpwd": "Harry@123",
+      "role": "student",
+      "mobileno": "7945632108",
+      "id": 7
+    },
+    {
+      "firstname": "Likith",
+      "lastname": "Pabolu",
+      "dateofbirth": "1984-07-21",
+      "emailid": "likith@gmail.com",
+      "password": "Likith@123",
+      "cnfpwd": "Likith@123",
+      "role": "teacher",
+      "mobileno": "8936997958",
+      "id": 8
+    },
+    {
+      "firstname": "Subhashini",
+      "lastname": "Kanamarlapudi",
+      "dateofbirth": "1973-04-23",
+      "emailid": "subhashini@gmail.com",
+      "password": "Subhashini@123",
+      "cnfpwd": "Subhashini@123",
+      "role": "teacher",
+      "mobileno": "6783697699",
+      "id": 9
+    }
+  ],
+  "mcaschedule": {
+    "time1": "10:00AM-11:00AM",
+    "time2": "11:00Am-12:00PM",
+    "time3": "02:00PM-04:00PM",
+    "time4": "04:00PM-06:00Pm",
+    "table": {
+      "day1": {
+        "day": "MON",
+        "subject1": "-",
+        "subject2": "OR",
+        "subject3": "JAVA",
+        "subject4": "AI"
+      },
+      "day2": {
+        "day": "TUE",
+        "subject1": "AI",
+        "subject2": "OS",
+        "subject3": "-",
+        "subject4": "R-LAB"
+      },
+      "day3": {
+        "day": "WED",
+        "subject1": "JAVA",
+        "subject2": "-",
+        "subject3": "JAVA-LAB",
+        "subject4": "OS"
+      },
+      "day4": {
+        "day": "THU",
+        "subject1": "OR",
+        "subject2": "R-LAB",
+        "subject3": "-",
+        "subject4": "AI"
+      },
+      "day5": {
+        "day": "FRI",
+        "subject1": "R-LAB",
+        "subject2": "PYTHON",
+        "subject3": "JAVA-LAB",
+        "subject4": "-"
+      }
+    }
+  },
+  "mscschedule": {
+    "time1": "10:00AM-11:00AM",
+    "time2": "11:00Am-12:00PM",
+    "time3": "02:00PM-04:00PM",
+    "time4": "04:00PM-06:00Pm",
+    "table": {
+      "day1": {
+        "day": "MON",
+        "subject1": "OR",
+        "subject2": "CO",
+        "subject3": "-",
+        "subject4": "DAA"
+      },
+      "day2": {
+        "day": "TUE",
+        "subject1": "DAA",
+        "subject2": "OB",
+        "subject3": "UNIX-LAB",
+        "subject4": "-"
+      },
+      "day3": {
+        "day": "WED",
+        "subject1": "FLAT",
+        "subject2": "-",
+        "subject3": "OR",
+        "subject4": "CO-LAB"
+      },
+      "day4": {
+        "day": "THU",
+        "subject1": "-",
+        "subject2": "CO",
+        "subject3": "OB",
+        "subject4": "FLAT"
+      },
+      "day5": {
+        "day": "FRI",
+        "subject1": "CO-LAB",
+        "subject2": "UNIX-LAB",
+        "subject3": "CO",
+        "subject4": "-"
+      }
+    }
+  },
+  "student": [
+    {
+      "id": 1,
+      "name": "Sravanthi",
+      "OS": 60,
+      "JAVA": 70,
+      "OR": 90,
+      "PYTHON": 80,
+      "AI": 75,
+      "RLAB": 90,
+      "JAVALAB": 70
+    },
+    {
+      "id": 2,
+      "name": "Swetha",
+      "OS": 60,
+      "JAVA": 80,
+      "OR": 85,
+      "PYTHON": 70,
+      "AI": 85,
+      "RLAB": 80,
+      "JAVALAB": 85
+    },
+    {
+      "name": "SaiLakshmi",
+      "OS": 85,
+      "JAVA": 80,
+      "OR": 95,
+      "PYTHON": 75,
+      "AI": 80,
+      "RLAB": 80,
+      "JAVALAB": 80,
+      "id": 3
+    },
+    {
+      "id": 4,
+      "name": "Sindhura",
+      "OS": 55,
+      "JAVA": 70,
+      "OR": 85,
+      "PYTHON": 90,
+      "AI": 75,
+      "RLAB": 80,
+      "JAVALAB": 70
+    },
+    {
+      "id": 5,
+      "name": "Varshini",
+      "OS": 75,
+      "JAVA": 80,
+      "OR": 85,
+      "PYTHON": 80,
+      "AI": 70,
+      "RLAB": 90,
+      "JAVALAB": 80
+    },
+    {
+      "id": 6,
+      "name": "Pallavi",
+      "OS": 85,
+      "JAVA": 80,
+      "OR": 86,
+      "PYTHON": 69,
+      "AI": 86,
+      "RLAB": 80,
+      "JAVALAB": 90
+    },
+    {
+      "id": 7,
+      "name": "Harry",
+      "OS": 75,
+      "JAVA": 70,
+      "OR": 92,
+      "PYTHON": 80,
+      "AI": 69,
+      "RLAB": 75,
+      "JAVALAB": 80
+    }
+  ]
+}
